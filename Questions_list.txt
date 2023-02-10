@@ -1,0 +1,39 @@
+Strings
+
+1) Java Program to count the total number of characters in a string
+2) Java Program to replace the spaces of a string with a specific character
+3) Java Program to count the total number of punctuation characters exists in a String
+4) Java Program to count the total number of vowels and consonants in a string
+5) Java Program to determine whether two strings are the anagram
+6) Java Program to divide a string in 'N' equal parts.
+7) Java Program to find all subsets of a string
+8) Java Program to find the longest repeating sequence in a string
+9) Java Program to find all the permutations of a string
+10) Java Program to remove all the white spaces from a string
+
+Arrays 
+
+1) Java Program to print the number of elements present in an array
+2) Java Program to find the frequency of each element in the array
+3) Java Program to left rotate the elements of an array
+4) Java Program to print the duplicate elements of an array
+5) Java Program to print the elements of an array
+6) Java Program to print the elements of an array in reverse order
+7) Java Program to print the elements of an array present on even position
+8) Java Program to print the elements of an array present on odd position
+9) Java Program to print the largest element in an array
+10) Java Program to print the smallest element in an array
+
+Matrix
+
+1) Java Program to Add Two Matrices
+2) Java Program to Multiply Two Matrices
+3) Java Program to subtract the two matrices
+4) Java Program to determine whether two matrices are equal
+5) Java Program to display the lower triangular matrix
+6) Java Program to display the upper triangular matrix
+7) Java Program to find the frequency of odd & even numbers in the given matrix
+8) Java Program to find the product of two matrices
+9) Java Program to find the sum of each row and each column of a matrix
+10) Java Program to find the transpose of a given matrix
+
