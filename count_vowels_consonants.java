@@ -19,7 +19,7 @@ class count_vowels_consonants {
             }
             if (answer == false && string.charAt(i) >= 'a' && string.charAt(i) <= 'z'){
                 Consonants++;
-                System.out.println(string.charAt(i));
+                //System.out.println(string.charAt(i));
             }
             else{
                 answer = false;
